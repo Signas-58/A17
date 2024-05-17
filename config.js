@@ -17,14 +17,14 @@ global.autoreadgc = true;
 
 
 //
-global.prefa = ["."];                                    //Default prefix here. you can change if you want.
+global.prefa = ["!"];                                    //Default prefix here. you can change if you want.
 
 
 //
-global.Owner = ["94702650071"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["94702650071"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["94702650071"];
-global.OwnerName = "Ruvinda Madushan";
+global.Owner = ["263777985546"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["263777985546"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["263777985546"];
+global.OwnerName = "null";
 global.BotName = "A17";
 global.packname = "A17 Bot @ruvinda";                             //Do not change.
 global.author = "By: Ruvinda";                               //Do not change.
@@ -85,7 +85,7 @@ global.mess = {
   botowner: 'Only my *Owner* can use this command, Baka!',
   grouponly: 'This command is only made for *Groups*, Baka!',
   privateonly: 'This command is only made for *Private Chat*, Baka!',
-  botonly: 'Only the *Bot itself* can use this command!',
+  botonly: 'Only my master *@Tsakane* and the *Bot itself* can use this command!',
   waiting: 'Just Wait...',
   nolink: 'Please provide me *link*, Baka!',
   error: 'An error occurd!',
